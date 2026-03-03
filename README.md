@@ -14,5 +14,5 @@
 </div>
 
 ## Socials 📩
-- Telegram: [@bloomapd](https://t.me/bloomapd)
+- Telegram: [@g3ld3r](https://t.me/g3ld3r)
 - Gmail: vadimgerasenko3002@gmail.com
